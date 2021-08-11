@@ -1,4 +1,4 @@
 # Title
 class Resume():
    def name():
-      return "hello"
+      return print("Hello Tom")
