@@ -4,4 +4,4 @@ class Resume():
       pass
    
    def name():
-      print("Hello Tom")
+      return "Hello Tom"
