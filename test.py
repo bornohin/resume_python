@@ -1,7 +1,7 @@
 # Title
 class Resume():
    def __init__(self):
-      pass
+      name
    
    def name():
       return "Hello Tom"
